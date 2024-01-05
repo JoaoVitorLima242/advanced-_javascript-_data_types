@@ -1,0 +1,20 @@
+{
+  "name": "advanced-data-types",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoaoVitorLima242/advanced_data_types.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JoaoVitorLima242/advanced_data_types/issues"
+  },
+  "homepage": "https://github.com/JoaoVitorLima242/advanced_data_types#readme"
+}
